@@ -2,10 +2,10 @@ package com.provigil.calculator.pojo;
 
 public class Subscriptions {
 	
-	int id;
-	int area;
-	String plan;
-	String location;
+	private int id;
+	private int area;
+	private String plan;
+	private String location;
 	
 	public Subscriptions() {
 		super();
