@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="15" class="java.beans.XMLDecoder">
+ <object class="com.provigil.calculator.pojo.Result" id="Result0">
+  <void property="cost">
+   <int>5000</int>
+  </void>
+  <void property="id">
+   <int>1</int>
+  </void>
+ </object>
+ <object idref="Result0"/>
+ <object idref="Result0"/>
+ <object idref="Result0"/>
+ <object idref="Result0"/>
+ <object idref="Result0"/>
+</java>
